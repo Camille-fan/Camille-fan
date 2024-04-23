@@ -1,5 +1,6 @@
 # About me 🐳
 **A boy who aspires to be a hacker**
+<!-- TO DO: add more details about me later -->
 
 <details>
 <summary>My top THINGS-TO-RANK</summary>
