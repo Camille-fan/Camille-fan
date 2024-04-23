@@ -3,6 +3,7 @@
 
 <details>
 <summary>My top THINGS-TO-RANK</summary>
+<blank>
 
 | Rank | THING-TO-RANK |
 |-----:|---------------|
